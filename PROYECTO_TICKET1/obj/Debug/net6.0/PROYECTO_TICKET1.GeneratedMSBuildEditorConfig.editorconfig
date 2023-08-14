@@ -1,0 +1,105 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PROYECTO_TICKET1
+build_property.RootNamespace = PROYECTO_TICKET1
+build_property.ProjectDir = C:\Users\luiss\OneDrive\Documentos\Proyectos Prueba\PROYECTO_TICKET1\PROYECTO_TICKET1\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\luiss\OneDrive\Documentos\Proyectos Prueba\PROYECTO_TICKET1\PROYECTO_TICKET1
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/luiss/OneDrive/Documentos/Proyectos Prueba/PROYECTO_TICKET1/PROYECTO_TICKET1/Views/Home/BasedeConocimiento.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCYXNlZGVDb25vY2ltaWVudG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiss/OneDrive/Documentos/Proyectos Prueba/PROYECTO_TICKET1/PROYECTO_TICKET1/Views/Home/Descargar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEZXNjYXJnYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiss/OneDrive/Documentos/Proyectos Prueba/PROYECTO_TICKET1/PROYECTO_TICKET1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiss/OneDrive/Documentos/Proyectos Prueba/PROYECTO_TICKET1/PROYECTO_TICKET1/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiss/OneDrive/Documentos/Proyectos Prueba/PROYECTO_TICKET1/PROYECTO_TICKET1/Views/Incidencia/CrearTicket.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5jaWRlbmNpYVxDcmVhclRpY2tldC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiss/OneDrive/Documentos/Proyectos Prueba/PROYECTO_TICKET1/PROYECTO_TICKET1/Views/Inicio/IniciarSesion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5pY2lvXEluaWNpYXJTZXNpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiss/OneDrive/Documentos/Proyectos Prueba/PROYECTO_TICKET1/PROYECTO_TICKET1/Views/Inicio/Registrarse.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5pY2lvXFJlZ2lzdHJhcnNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiss/OneDrive/Documentos/Proyectos Prueba/PROYECTO_TICKET1/PROYECTO_TICKET1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiss/OneDrive/Documentos/Proyectos Prueba/PROYECTO_TICKET1/PROYECTO_TICKET1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiss/OneDrive/Documentos/Proyectos Prueba/PROYECTO_TICKET1/PROYECTO_TICKET1/Views/Tickets/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiss/OneDrive/Documentos/Proyectos Prueba/PROYECTO_TICKET1/PROYECTO_TICKET1/Views/Tickets/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiss/OneDrive/Documentos/Proyectos Prueba/PROYECTO_TICKET1/PROYECTO_TICKET1/Views/Tickets/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiss/OneDrive/Documentos/Proyectos Prueba/PROYECTO_TICKET1/PROYECTO_TICKET1/Views/Tickets/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiss/OneDrive/Documentos/Proyectos Prueba/PROYECTO_TICKET1/PROYECTO_TICKET1/Views/Tickets/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlja2V0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiss/OneDrive/Documentos/Proyectos Prueba/PROYECTO_TICKET1/PROYECTO_TICKET1/Views/Usuarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiss/OneDrive/Documentos/Proyectos Prueba/PROYECTO_TICKET1/PROYECTO_TICKET1/Views/Usuarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiss/OneDrive/Documentos/Proyectos Prueba/PROYECTO_TICKET1/PROYECTO_TICKET1/Views/Usuarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiss/OneDrive/Documentos/Proyectos Prueba/PROYECTO_TICKET1/PROYECTO_TICKET1/Views/Usuarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiss/OneDrive/Documentos/Proyectos Prueba/PROYECTO_TICKET1/PROYECTO_TICKET1/Views/Usuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiss/OneDrive/Documentos/Proyectos Prueba/PROYECTO_TICKET1/PROYECTO_TICKET1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiss/OneDrive/Documentos/Proyectos Prueba/PROYECTO_TICKET1/PROYECTO_TICKET1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luiss/OneDrive/Documentos/Proyectos Prueba/PROYECTO_TICKET1/PROYECTO_TICKET1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1v05en1jvp
